@@ -3541,7 +3541,7 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "TH33", 
-        "name": "Si Sa Ket"
+        "name": "Sisaket"
       }, 
       "id": 2
     }, 
@@ -9357,7 +9357,7 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "TH31", 
-        "name": "Buri Ram"
+        "name": "Buriram"
       }, 
       "id": 5
     }, 
@@ -57725,7 +57725,7 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "TH82", 
-        "name": "Phangnga"
+        "name": "Phang Nga"
       }, 
       "id": 32
     }, 
@@ -66855,7 +66855,7 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "TH10", 
-        "name": "Bangkok Metropolis"
+        "name": "Bangkok"
       }, 
       "id": 41
     }, 
@@ -77871,7 +77871,7 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "TH18", 
-        "name": "Chai Nat"
+        "name": "Chainat"
       }, 
       "id": 51
     }, 
@@ -90619,7 +90619,7 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "TH39", 
-        "name": "Nong Bua Lam Phu"
+        "name": "Nong Bua Lamphu"
       }, 
       "id": 61
     }, 
@@ -91839,7 +91839,7 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "TH16", 
-        "name": "Lop Buri"
+        "name": "Lopburi"
       }, 
       "id": 62
     }, 
@@ -116063,7 +116063,7 @@
       "properties": {
         "source": "https://simplemaps.com", 
         "id": "TH20", 
-        "name": "Chon Buri"
+        "name": "Chonburi"
       }, 
       "id": 78
     }
